@@ -1,12 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
+    <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Qml4Net</RootNamespace>
     <PackageId>Qml4Net</PackageId>
-    <Version>0.1.2</Version>
+    <Version>0.2.0</Version>
     <Description>QGIS QML layer style codec for .NET — reads and writes .qml layer style files without QGIS runtime dependency</Description>
     <PackageTags>qml;qgis;gis;ogc;styling;xml;parsing;symbology;cartography;layer-style</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
