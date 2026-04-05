@@ -2,7 +2,7 @@
 
 A .NET library for reading and writing QGIS QML (`.qml`) layer style files.
 
-Ported from [qml4dart](https://github.com/niclas9912/qml4dart).
+Ported from [qml4dart](https://github.com/pt9912/mapstyler/tree/main/qml4dart).
 
 ## Status
 
@@ -123,7 +123,7 @@ git push origin Qml4Net-v0.1.0
 
 ## Related Projects
 
-- [qml4dart](https://github.com/niclas9912/qml4dart) -- Original Dart implementation
+- [qml4dart](https://github.com/pt9912/mapstyler/tree/main/qml4dart) -- Original Dart implementation
 
 ## License
 
