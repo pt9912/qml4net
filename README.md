@@ -6,9 +6,9 @@ Ported from [qml4dart](https://github.com/niclas9912/qml4dart).
 
 ## Status
 
-Project setup -- implementation has not started yet. See [Porting Design](docs/port2net.md) for the full plan.
+v0.1.0 released — 31 tests passing, 95.6% line coverage.
 
-## Planned Scope
+## Features
 
 - **QML Parsing** -- Read QGIS `.qml` layer style files into a typed object model
 - **QML Writing** -- Serialize the object model back to QML XML
@@ -18,7 +18,7 @@ Project setup -- implementation has not started yet. See [Porting Design](docs/p
 - **Scale Visibility** -- Document-level and rule-level scale-based visibility
 - **Zero Dependencies** -- Only BCL APIs (`System.Xml.Linq`)
 
-## Planned API
+## API
 
 ```csharp
 using Qml4Net;
@@ -118,6 +118,8 @@ git push origin Qml4Net-v0.1.0
 ## Documentation
 
 - [Porting Design](docs/port2net.md)
+- [Architecture](docs/architecture.md)
+- [Releasing](docs/releasing.md)
 
 ## Related Projects
 
