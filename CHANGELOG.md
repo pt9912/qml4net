@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] - 2026-04-05
+
+### Fixed
+
+- Add NuGet package metadata: PackageTags, PackageProjectUrl, RepositoryUrl, RepositoryType
+- Remove pseudo-code from porting document (port2net.md)
+
 ## [0.1.0] - 2026-04-05
 
 Initial release — complete port of qml4dart to .NET 10 / C# 14.

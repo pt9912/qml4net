@@ -6,12 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Qml4Net</RootNamespace>
     <PackageId>Qml4Net</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Description>QGIS QML layer style codec for .NET — reads and writes .qml layer style files without QGIS runtime dependency</Description>
+    <PackageTags>qml;qgis;gis;ogc;styling;xml;parsing;symbology;cartography;layer-style</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Authors>pt9912</Authors>
     <Copyright>Copyright (c) 2026 pt9912</Copyright>
+    <PackageProjectUrl>https://github.com/pt9912/qml4net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pt9912/qml4net</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <NoWarn>$(NoWarn)</NoWarn>
